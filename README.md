@@ -1,1 +1,1 @@
-This is the main README of alx-zero_day
+Not empty README.md in the root
